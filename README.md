@@ -4,8 +4,6 @@ My name is Erick, nice to meet you!
 
 <br />
 
-I'm from Brazil 🇧🇷
-
 ## Skills
 
 ### Front-end
