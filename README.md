@@ -2,8 +2,6 @@
 
 My name is Erick, nice to meet you!
 
-<br />
-
 ## Skills
 
 ### Front-end
