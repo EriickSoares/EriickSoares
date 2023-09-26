@@ -1,6 +1,6 @@
 # 🌎 Hello World!
 
-My name is Guilherme, nice to meet you!
+My name is Erick, nice to meet you!
 
 <br />
 
